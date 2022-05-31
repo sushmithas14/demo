@@ -1,2 +1,2 @@
 # demo
-jsut trying
+just trying
